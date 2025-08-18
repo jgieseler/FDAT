@@ -1,0 +1,23 @@
+# YAML 1.2
+# Metadata for citation of this software according to the CFF format (https://citation-file-format.github.io/)
+cff-version: 1.0.3
+message: If you use this software, please cite it using these metadata.
+title: 'Forbush Decrease Analysis Tool (FDAT)'
+doi: 10.5281/zenodo.15753634
+authors:
+- given-names: Galya
+  family-names: Chikunova
+  affiliation: University of Zagreb
+  orcid: 0000-0002-1317-0020
+- given-names: Mateja
+  family-names: Dumbovic
+  affiliation: University of Zagreb
+  orcid: 0000-0002-8680-8267
+- given-names: Jan
+  family-names: Gieseler
+  affiliation: University of Turku
+  orcid: 0000-0003-1848-7067
+version: 8.1.1
+date-released: 2025-06-27
+repository-code: https://github.com/spearhead-he/FDAT
+license: BSD-3-Clause
