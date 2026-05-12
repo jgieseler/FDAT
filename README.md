@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15753634.svg)](https://doi.org/10.5281/zenodo.15753634)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.15753634-blue)](https://doi.org/10.5281/zenodo.15753634)
 [![Python versions](https://img.shields.io/badge/python-3.10_--_3.13-blue)]()
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 [![website](https://img.shields.io/badge/Project%20Website-blue)](https://spearhead-he.eu)
